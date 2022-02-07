@@ -12,7 +12,7 @@
             "id": "2",
             "src": "https://images.pexels.com/photos/5605529/pexels-photo-5605529.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
             "alt":"pumpkin soup",
-            "name":"Pumpkin soup",
+            "name":"Pumpkin Soup",
             "type":"appetizer",
             "price":"4.90"
         },
@@ -20,7 +20,7 @@
             "id": "3",
             "src": "https://images.pexels.com/photos/3535391/pexels-photo-3535391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
             "alt":"garden salad",
-            "name":"Garden salad",
+            "name":"Garden Salad",
             "type":"appetizer",
             "price":"8.90"
         },
@@ -60,7 +60,7 @@
             "id": "8",
             "src": "https://images.pexels.com/photos/845802/pexels-photo-845802.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
             "alt":"pepperoni pizza with eggs",
-            "name":"Pepperoni Pizza With Eggs",
+            "name":"Pepperoni Pizza with Eggs",
             "type":"main",
             "price":"12.60"
         },
@@ -84,7 +84,7 @@
             "id": "11",
             "src": "https://images.pexels.com/photos/9058939/pexels-photo-9058939.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
             "alt":"seafood risotto",
-            "name":"Seafood risotto",
+            "name":"Seafood Risotto",
             "type":"main",
             "price":"17.99"
         },
